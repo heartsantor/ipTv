@@ -5,3 +5,9 @@ http://tv.ebox.live:8081/thunderbd/33/chunks.m3u8?nimblesessionid=17018306&wmsAu
 
 #EXTINF:0 tvg-logo="https://akashdth.com/assets/uploads/channels_images/1634194439-43755418.png" tvg-id="ext" tvg-name="Zee Bangla" group-title="Heart",Zee Bangla
 http://tv.ebox.live:8081/thunderbd/34/chunks.m3u8?nimblesessionid=17018319&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDIyIDEwOjMyOjIwIFBNJmhhc2hfdmFsdWU9RFJkSUFSSUhMRkk2NTBDZG94VkQ4dz09JnZhbGlkbWludXRlcz02MCZpZD01
+
+#EXTINF:0 tvg-logo="https://zeebanglacinema.com/images/zee-bangla-cinema-orange-logo.png" tvg-id="ext" tvg-name="Zee Bangla Cinema" group-title="Heart",Zee Bangla Cinema
+http://tv.ebox.live:8081/thunderbd/29/chunks.m3u8?nimblesessionid=17018334&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDIyIDEwOjQyOjI5IFBNJmhhc2hfdmFsdWU9aFQ0dmVQMGNtYXd4YUVEYVlITHpPZz09JnZhbGlkbWludXRlcz02MCZpZD01
+
+#EXTINF:0 tvg-logo="https://www.bizasialive.com/wp/wp-content/uploads/2019/02/starjalshanew001.jpg" tvg-id="ext" tvg-name="Star Jalsha" group-title="Heart",Star Jalsha
+http://tv.ebox.live:8081/thunderbd/30/chunks.m3u8?nimblesessionid=17018365&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDIyIDEwOjQ1OjUxIFBNJmhhc2hfdmFsdWU9ZTJIaXlxTXE4UkI2Y3NQd3pzN0Ywdz09JnZhbGlkbWludXRlcz02MCZpZD01
