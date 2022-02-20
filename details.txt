@@ -1,0 +1,13 @@
+https://siptv.eu/converter/
+https://thefreeiptv.blogspot.com/p/playlist-creator-m3u-xspf-wpl-pls-axbox.html#gsc.tab=0
+
+
+
+=========================================================================================
+#EXTINF:-1,tvg-id="Pink Action" tvg-name="Pink Action" tvg-logo="Pink Action.png" group-title="TV", Pink Action
+
+tvg-id= name of the channel EPG
+tvg-logo= name of the logo (XBMC/Logo/PinkAction.png) folder
+group-title= groups
+and finaly name of the channel
+==========================================================================================
