@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:0,Channel 1
+http://tv2.ebox.live:8080/live/nk-sixs.m3u8
