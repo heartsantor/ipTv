@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" tvg-id="ext" tvg-name="Pink Action" group-title="sports",sixs
-http://tv2.ebox.live:8080/live/nk-sixs.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" tvg-id="ext" tvg-name="Pink Action11" group-title="sports",24
-http://tv2.ebox.live:8080/live/ch24youtube.m3u8
+#EXTINF:0 tvg-logo="https://akashdth.com/assets/uploads/channels_images/sony8.png" tvg-id="ext" tvg-name="SONY AATH" group-title="Heart",SONY AATH
+http://tv.ebox.live:8081/thunderbd/33/chunks.m3u8?nimblesessionid=17018306&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDIyIDEwOjIxOjI1IFBNJmhhc2hfdmFsdWU9b2xPMFc5VUw3ZFJqTHhBMGxXbWg4QT09JnZhbGlkbWludXRlcz02MCZpZD01
