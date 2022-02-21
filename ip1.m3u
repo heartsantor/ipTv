@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:0 tvg-logo="https://akashdth.com/assets/uploads/channels_images/sony8.png" tvg-id="ext" tvg-name="Sony Aath" group-title="Heart",Sony Aath
-http://tv.ebox.live:8081/thunderbd/33/chunks.m3u8?nimblesessionid=17031216&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIyIDc6Mzc6MzYgQU0maGFzaF92YWx1ZT1reE1sNllCbmRaaGQxakxlSGFvbTRRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+http://tv.ebox.live:8081/thunderbd/33/chunks.m3u8?nimblesessionid=17075819&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIyIDY6MTA6MDIgUE0maGFzaF92YWx1ZT1UbEkzSzRjRmZSYjR6WDQyZGVvNXpnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:0 tvg-logo="https://akashdth.com/assets/uploads/channels_images/1634194439-43755418.png" tvg-id="ext" tvg-name="Zee Bangla" group-title="Heart",Zee Bangla
 http://tv.ebox.live:8081/thunderbd/34/chunks.m3u8?nimblesessionid=17018319&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDIyIDEwOjMyOjIwIFBNJmhhc2hfdmFsdWU9RFJkSUFSSUhMRkk2NTBDZG94VkQ4dz09JnZhbGlkbWludXRlcz02MCZpZD01
